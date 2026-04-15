@@ -77,6 +77,8 @@ Instalar **`LibreHardwareMonitor`** desde `GitHub` en Windows es un proceso se
 
 El siguiente video muestra como descargar, instalar y ejecutar la aplicación, además de realizar una demostración de su uso práctico. **¡Ojo! NO ES la versión de pago de** [LibreHardwareMonitor.com](http://LibreHardwareMonitor.com), hablamos de un `software libre` en un repositorio de GitHub.✨
 
+### Vídeo explicativo (YouTube)
+
 [DOWNLOAD THIS NOW (LibreHardwareMonitor) - EVERYONE sholud try this FREE utility NOW!](https://www.youtube.com/watch?v=sX2ThUWNXio)
 
 ---
