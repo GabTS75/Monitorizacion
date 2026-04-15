@@ -172,4 +172,4 @@ Sin embargo también veremos cómo realizarlo en `PowerShell` de Windows, puesto
 
 [🧩 POWERSHELL (Windows) | Gabriel Ternero](Monitorizacion_Gabriel_Ternero/POWERSHELL_Gabriel_Ternero.md)
 
-> Agradecimiento especial a nuestro porfesor **Jesús Ninoc** por el esfuerzo y sus consejos sobre el sector, conocer la importancia de la monitorización me ha servido para estar un paso más cerca de mi objetivo. 💫
+> Agradecimiento especial a nuestro porfesor **Jesús Niño Camazón** por el esfuerzo y sus consejos sobre el sector, conocer la importancia de la monitorización me ha servido para estar un paso más cerca de mi objetivo. 💫

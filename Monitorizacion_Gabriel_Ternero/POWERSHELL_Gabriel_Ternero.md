@@ -27,7 +27,9 @@ Vamos a definir y generar la estructura que desarrollaremos:
    └── sistema_info.ps1
 ```
 
-Como podemos ver, tenemos el script `menu.ps1`, que servirá como “**panel de control**” para seleccionar de forma práctica y didáctica cualquiera de los scripts. Pero ¡ojo!, cada script es autónomo, es decir, puede ser ejecutado independientemente.
+Como podemos ver, tenemos el script `menu.ps1`, que servirá como **panel de control** para seleccionar de forma práctica y didáctica cualquiera de los scripts. Pero ¡ojo!, cada script es autónomo, es decir, puede ser ejecutado independientemente.
+
+Esta es una idea muy didáctica que nos mostró nuestro profesor `Jesús Niño C.`. 👈😉✨
 
 >💡 **Una cosita muy importante antes de empezar** ⚠️
 >

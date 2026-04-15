@@ -18,11 +18,9 @@ monitor/
 └── sistema_info.py   ←   información estática (esto sí es "obtener info")
 ```
 
-Cada script será **autónomo**, con un **intervalo de muestreo configurable** y preparado para que luego se pueda unificar en un `monitor_completo.py`, que veremos al final de todos.
+Cada script será **autónomo**, con un **intervalo de muestreo configurable** y preparado para que luego se pueda unificar en un `menu.py`, que veremos al final de todos. Este actuará como **panel de control** para lanzar cualquiera de los scripts.
 
-Además, haremos un `menu.py` que actúe como "panel de control" para lanzar cualquiera de los scripts.
-
-Esta es una idea muy didáctica que nos mostró nuestro profesor `Jesús Ninoc`. 👈😉✨
+Esta es una idea muy didáctica que nos mostró nuestro profesor `Jesús Niño C.`. 👈😉✨
 
 >💡 Para ejecutar archivos de Python, primero debemos verificar si lo tenemos instalado, preguntando por la versión, si no lo tenemos, procedemos a instalar siguiendo los pasos.
 
