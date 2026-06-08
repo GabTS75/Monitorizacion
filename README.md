@@ -1,6 +1,6 @@
-# Monitorización (completo) | Gabriel Ternero
+# Proyecto 01: 🖥️ Monitorización del Hardware | Gabriel Ternero
 
-## 🖥️ Guía completa de monitorización del hardware de un PC
+## Guía completa de monitorización del hardware de un PC
 
 Lista **completa y exhaustiva** de todo lo que se debería cubrir en una **guía completa de monitorización del hardware de un ordenador:**
 
@@ -14,8 +14,6 @@ Lista **completa y exhaustiva** de todo lo que se debería cubrir en una **guía
 - Cambios de contexto por segundo
 - Interrupciones por segundo
 
----
-
 ## 🧩 2. Memoria RAM
 
 - Total, usada, libre, disponible
@@ -23,8 +21,6 @@ Lista **completa y exhaustiva** de todo lo que se debería cubrir en una **guía
 - Memoria compartida (shared)
 - Porcentaje de uso
 - Swap: total, usada, libre, porcentaje
-
----
 
 ## 💾 3. Almacenamiento (Discos)
 
@@ -37,8 +33,6 @@ Lista **completa y exhaustiva** de todo lo que se debería cubrir en una **guía
 - Estado S.M.A.R.T. del disco (salud del dispositivo físico)
 - Temperatura del disco
 
----
-
 ## 🌡️ 4. Temperaturas
 
 - Temperatura de cada núcleo de CPU
@@ -47,8 +41,6 @@ Lista **completa y exhaustiva** de todo lo que se debería cubrir en una **guía
 - Temperatura de la GPU
 - Temperatura de la placa base (motherboard)
 - Temperatura de otros sensores del sistema (chipset, VRMs)
-
----
 
 ## 🎮 5. GPU (Tarjeta Gráfica)
 
@@ -60,8 +52,6 @@ Lista **completa y exhaustiva** de todo lo que se debería cubrir en una **guía
 - Consumo energético de GPU (W)
 - Procesos que usan la GPU
 
----
-
 ## 🌐 6. Red (Network)
 
 - Interfaces disponibles (eth0, wlan0, lo, etc.)
@@ -72,8 +62,6 @@ Lista **completa y exhaustiva** de todo lo que se debería cubrir en una **guía
 - Estado de cada interfaz (UP/DOWN)
 - Dirección IP, MAC, MTU por interfaz
 
----
-
 ## ⚡ 7. Energía y Batería *(si es portátil)*
 
 - Estado: cargando / descargando / cargado
@@ -83,14 +71,10 @@ Lista **completa y exhaustiva** de todo lo que se debería cubrir en una **guía
 - Voltaje y capacidad actual vs. capacidad de diseño
 - Consumo del sistema (W) *(si hay sensor disponible)*
 
----
-
 ## 🔄 8. Ventiladores (Cooling)
 
 - Velocidad de cada ventilador en RPM (CPU fan, case fans, GPU fan)
 - Estado de los ventiladores (activo/inactivo)
-
----
 
 ## 🏃 9. Procesos del Sistema
 
@@ -100,14 +84,10 @@ Lista **completa y exhaustiva** de todo lo que se debería cubrir en una **guía
 - Top N procesos por uso de I/O de disco
 - PIDs, usuarios propietarios y comandos
 
----
-
 ## ⏱️ 10. Tiempo de Sistema (Uptime)
 
 - Tiempo desde el último arranque (días, horas, minutos)
 - Fecha y hora del último arranque
-
----
 
 ## 🖥️ 11. Información estática del hardware *(útil como cabecera del reporte)*
 
@@ -168,8 +148,8 @@ Sin embargo también veremos cómo realizarlo en `PowerShell` de Windows, puesto
 
 ## Python & PowerShell
 
-[🧩 PYTHON | Gabriel Ternero](Monitorizacion_Gabriel_Ternero/PYTHON_Gabriel_Ternero.md)
+[🧩 Scripts en PYTHON | Gabriel Ternero](Monitorizacion_Gabriel_Ternero/PYTHON_Gabriel_Ternero.md)
 
-[🧩 POWERSHELL (Windows) | Gabriel Ternero](Monitorizacion_Gabriel_Ternero/POWERSHELL_Gabriel_Ternero.md)
+[🧩 Scripts en POWERSHELL (Windows) | Gabriel Ternero](Monitorizacion_Gabriel_Ternero/POWERSHELL_Gabriel_Ternero.md)
 
 > Agradecimiento especial a nuestro porfesor **Jesús Niño Camazón** por el esfuerzo y sus consejos sobre el sector, conocer la importancia de la monitorización me ha servido para estar un paso más cerca de mi objetivo. 💫
