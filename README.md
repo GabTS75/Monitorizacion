@@ -1,4 +1,4 @@
-# Proyecto 01: 🖥️ Monitorización del Hardware | Gabriel Ternero
+# 🖥️ Monitorización del Hardware | Gabriel Ternero
 
 ## Guía completa de monitorización del hardware de un PC
 
